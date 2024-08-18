@@ -1,0 +1,7 @@
+#忽略文件，下面的东西在进行Git推送时会被忽略
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
